@@ -1,25 +1,25 @@
 .vitrine-produtos {
-    margin: 40px 0;
-  }
-  .categoria-produto {
-    font-size: 140%;
-    font-weight: 600;
-    
-    margin: 10px 10px 10px 10px;
-    line-height: 3;
-    padding-left: 20px;
-  }
+  margin: 40px 0;
+}
+.categoria-produto {
+  font-size: 140%;
+  font-weight: 600;
+  
+  margin: 10px 10px 10px 10px;
+  line-height: 3;
+  padding-left: 20px;
+}
 
-  .lista-produtos {
-    margin: 40px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-  }
+.lista-produtos {
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
 
-  .imagem-produto {
-    width: 100%;
-    height: 150px;
-    object-fit: contain;
-    object-position: 0 0;
-  }
+.imagem-produto {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+  object-position: 0 0;
+}
