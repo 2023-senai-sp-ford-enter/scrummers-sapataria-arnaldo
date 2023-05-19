@@ -1,1 +1,0 @@
-# scrummers-sapataria-arnaldo
