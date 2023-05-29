@@ -2,6 +2,11 @@ main {
     margin: auto;
     width: 80%;
 }
+body {
+
+    background-color: rgb(139, 98, 21);
+    text-align: center;
+  }
 
 .container {
     display: flex;
@@ -26,6 +31,7 @@ button {
     width: 100%;
     box-sizing: border-box;
     margin-bottom: 10px;
+    background-color: rgb(196, 192, 192);
 }
 
 .contact-form input {
@@ -42,11 +48,12 @@ button {
     float: left;
     z-index: 9999;
     position: fixed;
-  }
+    margin: 0 auto;
+}
 .center{
     width: 100%;
     height: 60px;
-    margin: 0 auto;  
+    margin: 0 auto; 
     }
 
 .center ul{
@@ -67,3 +74,6 @@ button {
 .center ul li:hover{
     background-color: black;  
     }
+.footer{
+    background-color: rgb(117, 117, 117);
+}
